@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+
+.player{
+    display: inline-block;
+    margin: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(64, 72, 78);
+}
+
+h1{
+    font-size: 4rem;
+    color: tomato;
+    text-shadow: 3px 0 yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    
+}
+
+
+p{
+    font-size: 2rem;
+  
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 30px;
+}
